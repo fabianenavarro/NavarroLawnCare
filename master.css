@@ -1,0 +1,32 @@
+body{
+  background-color: lightgrey;
+}
+
+nav{
+  background: rgba(0, 255, 0, 50);
+  height: 3em;
+  font-size: 24px;
+}
+
+h1{
+  color: Green;
+  /* em, rem, px are various ways to give sizes */
+  font-size: 3em;
+  background: black;
+}
+
+h2{
+  color:black;
+  background: lightgreen;
+  font-size: 2em;
+}
+
+a:hover{
+  font-weight: 700;
+}
+
+#this-page{
+  color: red;
+  fontsize: 3em;
+
+}
